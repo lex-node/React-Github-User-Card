@@ -1,0 +1,95 @@
+{
+  "login"
+:
+  "lex-node",
+      "id"
+:
+  22785114,
+      "node_id"
+:
+  "MDQ6VXNlcjIyNzg1MTE0",
+      "avatar_url"
+:
+  "https://avatars2.githubusercontent.com/u/22785114?v=4",
+      "gravatar_id"
+:
+  "",
+      "url"
+:
+  "https://api.github.com/users/lex-node",
+      "html_url"
+:
+  "https://github.com/lex-node",
+      "followers_url"
+:
+  "https://api.github.com/users/lex-node/followers",
+      "following_url"
+:
+  "https://api.github.com/users/lex-node/following{/other_user}",
+      "gists_url"
+:
+  "https://api.github.com/users/lex-node/gists{/gist_id}",
+      "starred_url"
+:
+  "https://api.github.com/users/lex-node/starred{/owner}{/repo}",
+      "subscriptions_url"
+:
+  "https://api.github.com/users/lex-node/subscriptions",
+      "organizations_url"
+:
+  "https://api.github.com/users/lex-node/orgs",
+      "repos_url"
+:
+  "https://api.github.com/users/lex-node/repos",
+      "events_url"
+:
+  "https://api.github.com/users/lex-node/events{/privacy}",
+      "received_events_url"
+:
+  "https://api.github.com/users/lex-node/received_events",
+      "type"
+:
+  "User",
+      "site_admin"
+:
+  false,
+      "name"
+:
+  "_g4brielShapir0",
+      "company"
+:
+  "@zerolawtech ",
+      "blog"
+:
+  "lex-node.github.io/sustain/",
+      "location"
+:
+  null,
+      "email"
+:
+  null,
+      "hireable"
+:
+  null,
+      "bio"
+:
+  "autonomous attorney",
+      "public_repos"
+:
+  67,
+      "public_gists"
+:
+  1,
+      "followers"
+:
+  15,
+      "following"
+:
+  17,
+      "created_at"
+:
+  "2016-10-12T05:17:22Z",
+      "updated_at"
+:
+  "2020-05-18T23:43:03Z"
+}
